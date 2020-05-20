@@ -1,0 +1,14 @@
+C:\src\WS- Web\Scrapper\EstudoScrapper\EstudoScrapper\bin\Debug\EstudoScrapper.exe.config
+C:\src\WS- Web\Scrapper\EstudoScrapper\EstudoScrapper\bin\Debug\EstudoScrapper.exe
+C:\src\WS- Web\Scrapper\EstudoScrapper\EstudoScrapper\bin\Debug\EstudoScrapper.pdb
+C:\src\WS- Web\Scrapper\EstudoScrapper\EstudoScrapper\bin\Debug\HtmlAgilityPack.dll
+C:\src\WS- Web\Scrapper\EstudoScrapper\EstudoScrapper\bin\Debug\HtmlAgilityPack.pdb
+C:\src\WS- Web\Scrapper\EstudoScrapper\EstudoScrapper\bin\Debug\HtmlAgilityPack.xml
+C:\src\WS- Web\Scrapper\EstudoScrapper\EstudoScrapper\obj\Debug\EstudoScrapper.csprojAssemblyReference.cache
+C:\src\WS- Web\Scrapper\EstudoScrapper\EstudoScrapper\obj\Debug\EstudoScrapper.Form1.resources
+C:\src\WS- Web\Scrapper\EstudoScrapper\EstudoScrapper\obj\Debug\EstudoScrapper.Properties.Resources.resources
+C:\src\WS- Web\Scrapper\EstudoScrapper\EstudoScrapper\obj\Debug\EstudoScrapper.csproj.GenerateResource.cache
+C:\src\WS- Web\Scrapper\EstudoScrapper\EstudoScrapper\obj\Debug\EstudoScrapper.csproj.CoreCompileInputs.cache
+C:\src\WS- Web\Scrapper\EstudoScrapper\EstudoScrapper\obj\Debug\EstudoScrapper.csproj.CopyComplete
+C:\src\WS- Web\Scrapper\EstudoScrapper\EstudoScrapper\obj\Debug\EstudoScrapper.exe
+C:\src\WS- Web\Scrapper\EstudoScrapper\EstudoScrapper\obj\Debug\EstudoScrapper.pdb
